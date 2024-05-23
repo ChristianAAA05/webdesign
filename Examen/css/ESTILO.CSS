@@ -1,0 +1,46 @@
+
+
+input[type="password"],
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+   
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:rgba(87, 172, 38, 0.26);
+    margin-top: 50px;
+    position:relative;
+}
+
+a{
+    text-decoration: none;
+    
+    
+}
+.obien{
+    text-decoration: none;
+    height: auto;
+    width: 400;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: auto;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 50px;
+}
+.mi{
+    text-decoration: none;
+    height: auto;
+    width: 400;
+    text-align: center;
+}
